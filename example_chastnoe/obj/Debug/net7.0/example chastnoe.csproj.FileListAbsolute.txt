@@ -1,0 +1,30 @@
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\bin\Debug\net7.0\example chastnoe.exe
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\bin\Debug\net7.0\example chastnoe.deps.json
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\bin\Debug\net7.0\example chastnoe.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\bin\Debug\net7.0\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\bin\Debug\net7.0\example chastnoe.pdb
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\refint\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.pdb
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\example chastnoe.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example chastnoe\obj\Debug\net7.0\ref\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\bin\Debug\net7.0\example chastnoe.exe
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\bin\Debug\net7.0\example chastnoe.deps.json
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\bin\Debug\net7.0\example chastnoe.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\bin\Debug\net7.0\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\bin\Debug\net7.0\example chastnoe.pdb
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\refint\example chastnoe.dll
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.pdb
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\example chastnoe.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Visual studio\cc#\example_chastnoe\obj\Debug\net7.0\ref\example chastnoe.dll
